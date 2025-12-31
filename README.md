@@ -34,7 +34,3 @@ It serves as a practical demonstration of:
 - Event handling
 - Basic state management
 - Modular and readable Python code
-
----
-   ```bash
-   git clone https://github.com/your-username/spacebean.git
