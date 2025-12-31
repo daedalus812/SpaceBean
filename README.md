@@ -1,6 +1,6 @@
 # 👾 SpaceBean
 
-![SpaceBean Gameplay](assets/spacebean-screenshot.png)
+![SpaceBean Gameplay](spacebean-screenshot.png)
 
 **SpaceBean** is a small arcade-style game developed in **Python** as a university project.  
 Inspired by classic space shooters, the game puts the player in the role of an **alien** whose objective is to eliminate incoming **astronauts** and survive as long as possible.
